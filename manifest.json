@@ -1,0 +1,19 @@
+{
+    "name": "Leovegas Casino Italia Gioca e Vinci Online | Casino Leovegas",
+    "short_name": "PowerPlay",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Leovegas Casino offre giochi legali in Italia con bonus esclusivi e promozioni | Leovegas Casino Online ti invita a giocare e vincere ora.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
